@@ -1,0 +1,14 @@
+/******************************************************************************
+ *  Name:    Ethan Darling, Gerald Brady
+ *  Programming Assignment 4: 8 Puzzle
+ *
+ ******************************************************************************/
+
+Pebbles:
+
+Ethan and I paired programed on both weekends and spent multiple hours spitting out each of the methods within each class.  We both created methods and selected ones that worked better to keep within the final file.  We paired with comments and cleaning up on code.  Junit tests were a mix of self and inclass creation.  We also were sent additional tests to check Board.  I learned from Ethan that we both had different strengths and it seemed that we had little overlap in each of them.
+
+Hours spent on this assignment from just me (Gerald) was well over 30 hours.
+
+Pebbles 50/50
+
