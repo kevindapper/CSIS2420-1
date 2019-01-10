@@ -1,0 +1,12 @@
+/******************************************************************************
+ *  Name:    Rachel Barton, Gerald Brady
+ *  Programming Assignment 3: AutoComplete
+ *
+ ******************************************************************************/
+
+Pebbles:
+
+Rachel and I paired programed on several occations and spit working on methods outside of meeting times.  We paired with comments and cleaning up on code and creation of junit testing.
+
+Pebbles 50/50
+
