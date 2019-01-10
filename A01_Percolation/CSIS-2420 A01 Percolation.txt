@@ -1,0 +1,8 @@
+CSIS-2420-404-F18
+Assignment
+A01 Percolation
+
+Gerald Brady and Cris Cooper
+Pebbles 5/5
+
+We both did heavy lifting on this project.  we both discovered solutions to roadblocks that we could not over come when we programed together.
