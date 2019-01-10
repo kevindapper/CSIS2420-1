@@ -1,0 +1,14 @@
+/******************************************************************************
+ *  Name:    Aaron Sadler, Gerald Brady
+ *  Programming Assignment 5: KD-Trees
+ *
+ ******************************************************************************/
+
+Pebbles:
+
+Aaron and I paired programed on both weekends and spent multiple hours spitting out each of the methods within each class.  We started each of the classes together and attempted some of our own coding seperate.
+
+Hours spent on this assignment from just me (Gerald) was well over 24 hours.
+
+Pebbles 50/50
+
